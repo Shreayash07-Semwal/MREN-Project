@@ -1,0 +1,8 @@
+JWT are used for authenrtication and authorization.
+it is the combination of header,payloadand signature
+
+all the step that is reqiured is mern stack project
+1.create a connection with database in database page
+2.define the schema using model in user_model page.
+3.then we build the logic of registration in auth-controler page.
+4.f\\f
